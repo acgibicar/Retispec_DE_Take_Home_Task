@@ -331,7 +331,7 @@ if __name__ == '__main__':
     patient_image_ids = patient.list_patient_images()
 
     #Return image data using stored path
-    patient_image = patient.load_patient_image(patient_image_ids[0], plot_flag= False)
+    patient_image = patient.load_patient_image(patient_image_ids[0], plot_flag= True)
 
     print("Patient image shape: ", patient_image.shape)
 
