@@ -3,7 +3,7 @@ PatientLoader is a Python Class to used load patient data and images from multip
 
 ## Installation
 ```sh
-git clone https://github.com/my_repo_name
+git clone https://github.com/acgibicar/Retispec_DE_Take_Home_Task.git
 pip install -r requirements.txt
 ```
 
